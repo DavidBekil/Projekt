@@ -1,0 +1,5 @@
+Spelade spel:9
+X_vinster:6
+O_vinster:3
+Oavgjorda:0
+Totala_drag:66
